@@ -1,0 +1,43 @@
+body{
+
+	margin-top: 20px;
+	background-color:#009DDC;
+	color: white;
+	margin: 0px;
+	}
+h1{
+	font-family: fantasy;
+	text-shadow: 6px 6px 12px #000000;
+	margin-top: 0px;
+	color:#009DDC;
+}
+.pepe{
+	position: sticky;
+	top: 0px;
+	padding-bottom: 5px;
+	padding-top: 62px;
+	background-color: white;
+	}
+h2{
+	
+	font-family: fantasy;
+	box-shadow: 10px 5px;
+	border: solid;
+	border-radius: 20px;
+	margin-left: 10px;
+	margin-right: 500px;
+	text-align: center;
+
+	}
+.skills:hover{
+	color:#009DDC;
+	background-color:white;}
+
+.pad{padding-bottom: 112px;
+}
+.picture{
+	float: right;
+}
+.biotext{padding-left: 25px;}
+.skillstext{padding-left: 25px;}
+.lifegoalstext{padding-left: 25px;}
